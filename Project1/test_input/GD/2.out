@@ -1,0 +1,256 @@
+
+Initial coordinates: 
+    Ar 0.0 0.0 0.0
+    Ar 4.0 0.0 0.0
+ 
+Initial energy: -6.108e-01 kJ/mol
+Initial Force: 
+[[ 0.70331383  0.          0.        ]
+ [-0.70331383  0.          0.        ]]
+Initial stepsize: 0.3 
+Threshold for convergence: 0.01 
+
+    Iteration 0: 
+New Step Accepted.
+Current stepsize: 0.36
+New coordinates: 
+    Ar 0.21213203435596426 0.0 0.0
+    Ar 3.7878679656440357 0.0 0.0
+
+New Force: 
+[[ 0.64589892  0.          0.        ]
+ [-0.64589892  0.          0.        ]]
+New energy: -0.9300475354834937 
+
+        
+Iteration 1: 
+New Step Rejected, reducing stepsize... 
+Current stepsize: 0.18
+New coordinates: 
+    Ar 0.4666904755831214 0.0 0.0
+    Ar 3.533309524416879 0.0 0.0
+
+New Force: 
+[[ 0.64589892  0.          0.        ]
+ [-0.64589892  0.          0.        ]]
+New energy: -0.9300475354834937 
+
+        
+Iteration 2: 
+New Step Accepted.
+Current stepsize: 0.216
+New coordinates: 
+    Ar 0.33941125496954283 0.0 0.0
+    Ar 3.660588745030457 0.0 0.0
+
+New Force: 
+[[-0.62728599  0.          0.        ]
+ [ 0.62728599  0.          0.        ]]
+New energy: -0.9752081097366979 
+
+        
+Iteration 3: 
+New Step Rejected, reducing stepsize... 
+Current stepsize: 0.108
+New coordinates: 
+    Ar 0.18667619023324855 0.0 0.0
+    Ar 3.8133238097667514 0.0 0.0
+
+New Force: 
+[[-0.62728599  0.          0.        ]
+ [ 0.62728599  0.          0.        ]]
+New energy: -0.9752081097366979 
+
+        
+Iteration 4: 
+New Step Accepted.
+Current stepsize: 0.1296
+New coordinates: 
+    Ar 0.2630437226013957 0.0 0.0
+    Ar 3.7369562773986043 0.0 0.0
+
+New Force: 
+[[ 0.36681465  0.          0.        ]
+ [-0.36681465  0.          0.        ]]
+New energy: -0.9833742665204173 
+
+        
+Iteration 5: 
+New Step Rejected, reducing stepsize... 
+Current stepsize: 0.0648
+New coordinates: 
+    Ar 0.35468476144317224 0.0 0.0
+    Ar 3.6453152385568277 0.0 0.0
+
+New Force: 
+[[ 0.36681465  0.          0.        ]
+ [-0.36681465  0.          0.        ]]
+New energy: -0.9833742665204173 
+
+        
+Iteration 6: 
+New Step Accepted.
+Current stepsize: 0.07776
+New coordinates: 
+    Ar 0.30886424202228396 0.0 0.0
+    Ar 3.691135757977716 0.0 0.0
+
+New Force: 
+[[-0.11642167  0.          0.        ]
+ [ 0.11642167  0.          0.        ]]
+New energy: -0.9969866810339237 
+
+        
+Iteration 7: 
+New Step Rejected, reducing stepsize... 
+Current stepsize: 0.03888
+New coordinates: 
+    Ar 0.25387961871721804 0.0 0.0
+    Ar 3.746120381282782 0.0 0.0
+
+New Force: 
+[[-0.11642167  0.          0.        ]
+ [ 0.11642167  0.          0.        ]]
+New energy: -0.9969866810339237 
+
+        
+Iteration 8: 
+New Step Rejected, reducing stepsize... 
+Current stepsize: 0.01944
+New coordinates: 
+    Ar 0.281371930369751 0.0 0.0
+    Ar 3.7186280696302494 0.0 0.0
+
+New Force: 
+[[-0.11642167  0.          0.        ]
+ [ 0.11642167  0.          0.        ]]
+New energy: -0.9969866810339237 
+
+        
+Iteration 9: 
+New Step Accepted.
+Current stepsize: 0.023327999999999998
+New coordinates: 
+    Ar 0.2951180861960175 0.0 0.0
+    Ar 3.7048819138039826 0.0 0.0
+
+New Force: 
+[[ 0.05889169  0.          0.        ]
+ [-0.05889169  0.          0.        ]]
+New energy: -0.99770959228192 
+
+        
+Iteration 10: 
+New Step Rejected, reducing stepsize... 
+Current stepsize: 0.011663999999999999
+New coordinates: 
+    Ar 0.31161347318753724 0.0 0.0
+    Ar 3.688386526812463 0.0 0.0
+
+New Force: 
+[[ 0.05889169  0.          0.        ]
+ [-0.05889169  0.          0.        ]]
+New energy: -0.99770959228192 
+
+        
+Iteration 11: 
+New Step Accepted.
+Current stepsize: 0.013996799999999998
+New coordinates: 
+    Ar 0.30336577969177736 0.0 0.0
+    Ar 3.6966342203082228 0.0 0.0
+
+New Force: 
+[[-0.0427229  0.         0.       ]
+ [ 0.0427229  0.         0.       ]]
+New energy: -0.9978571972931759 
+
+        
+Iteration 12: 
+New Step Rejected, reducing stepsize... 
+Current stepsize: 0.006998399999999999
+New coordinates: 
+    Ar 0.2934685474968655 0.0 0.0
+    Ar 3.7065314525031345 0.0 0.0
+
+New Force: 
+[[-0.0427229  0.         0.       ]
+ [ 0.0427229  0.         0.       ]]
+New energy: -0.9978571972931759 
+
+        
+Iteration 13: 
+New Step Accepted.
+Current stepsize: 0.008398079999999999
+New coordinates: 
+    Ar 0.2984171635943214 0.0 0.0
+    Ar 3.7015828364056786 0.0 0.0
+
+New Force: 
+[[ 0.01948624  0.          0.        ]
+ [-0.01948624  0.          0.        ]]
+New energy: -0.9979690558089727 
+
+        
+Iteration 14: 
+New Step Rejected, reducing stepsize... 
+Current stepsize: 0.004199039999999999
+New coordinates: 
+    Ar 0.3043555029112685 0.0 0.0
+    Ar 3.6956444970887317 0.0 0.0
+
+New Force: 
+[[ 0.01948624  0.          0.        ]
+ [-0.01948624  0.          0.        ]]
+New energy: -0.9979690558089727 
+
+        
+Iteration 15: 
+New Step Accepted.
+Current stepsize: 0.005038847999999999
+New coordinates: 
+    Ar 0.30138633325279496 0.0 0.0
+    Ar 3.698613666747205 0.0 0.0
+
+New Force: 
+[[-0.01738295  0.          0.        ]
+ [ 0.01738295  0.          0.        ]]
+New energy: -0.9979759701270452 
+
+        
+Iteration 16: 
+New Step Rejected, reducing stepsize... 
+Current stepsize: 0.0025194239999999997
+New coordinates: 
+    Ar 0.2978233296626267 0.0 0.0
+    Ar 3.7021766703373733 0.0 0.0
+
+New Force: 
+[[-0.01738295  0.          0.        ]
+ [ 0.01738295  0.          0.        ]]
+New energy: -0.9979759701270452 
+
+        
+Iteration 17: 
+New Step Accepted.
+Current stepsize: 0.0030233087999999996
+New coordinates: 
+    Ar 0.29960483145771083 0.0 0.0
+    Ar 3.700395168542289 0.0 0.0
+
+New Force: 
+[[ 0.0049007  0.         0.       ]
+ [-0.0049007  0.         0.       ]]
+New energy: -0.9979980618231092 
+
+        
+
+------------------------
+Total iterations: 18 
+Optimized structure: 
+
+    Ar 0.29960483145771083 0.0 0.0
+    Ar 3.700395168542289 0.0 0.0
+ 
+Final Energy: -9.980e-01 kJ/mol
+                

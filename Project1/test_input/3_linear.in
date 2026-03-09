@@ -1,0 +1,10 @@
+$config
+JOB: Force
+$end
+
+$molecule
+0 0
+Ar  0.0 -4.0  0.0
+Ar  0.0  0.0  0.0
+Ar  0.0  5.0  0.0
+$end

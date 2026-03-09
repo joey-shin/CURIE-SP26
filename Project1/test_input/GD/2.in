@@ -1,0 +1,10 @@
+$config
+JOB: GD
+VERBOSE: True
+$end
+
+$molecule
+0 0
+Ar  0.0  0.0  0.0
+Ar  4.0  0.0  0.0
+$end

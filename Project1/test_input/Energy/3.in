@@ -1,0 +1,10 @@
+$config
+JOB: Energy
+$end
+
+$molecule
+0 0
+Ar  0.0 -5.0  0.0
+Ar  0.0  5.0  0.0
+Ar -3.6  0.0  0.0
+$end
