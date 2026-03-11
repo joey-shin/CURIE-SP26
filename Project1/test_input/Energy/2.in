@@ -1,6 +1,5 @@
 $config
 JOB: Energy
-VERBOSE: True
 $end
 
 $molecule
