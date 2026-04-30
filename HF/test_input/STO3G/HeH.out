@@ -1,0 +1,32 @@
+Spawning Job...
+
+Building Integrals...
+
+Integrals Built!
+
+Initial Guess Method: Hcore 
+
+Initial Guess Made
+
+Beginning SCF Proceedure...
+
+    iteration: 0 	 Energy: -1.4702508393754532
+    iteration: 1 	 Energy: -1.512551739775298
+    iteration: 2 	 Energy: -1.5217554485247193
+    iteration: 3 	 Energy: -1.5234289621462698
+    iteration: 4 	 Energy: -1.5237219485568403
+    iteration: 5 	 Energy: -1.52377289061333
+    iteration: 6 	 Energy: -1.5237817373287363
+    iteration: 7 	 Energy: -1.5237832733478858
+    iteration: 8 	 Energy: -1.5237835400309265
+    iteration: 9 	 Energy: -1.5237835863320384
+    iteration: 10 	 Energy: -1.5237835943707598
+
+SCF Converged!
+
+E_kinetic = 2.4221010704 Ha
+E_nuclear = -7.3605266752 Ha
+E_coulomb = 1.8908584132 Ha
+E_exchange = -0.9454292066 Ha
+E_nuc_rep = 1.1386277478 Ha
+E_tot = -2.8543686503 Ha

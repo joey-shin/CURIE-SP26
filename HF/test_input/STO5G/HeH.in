@@ -1,0 +1,10 @@
+%config
+job: HF
+basis: STO-5G
+%end
+
+%molecule
+1 1
+H   0.000000   0.000000   0.000000
+He  0.000000   0.000000   0.929500
+%end
